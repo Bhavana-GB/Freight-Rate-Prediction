@@ -1,5 +1,5 @@
 # Freight-Rate-Prediction
-# 📦 Forecasting Container Freight Prices using Time Series & Machine Learning
+# Forecasting Container Freight Prices using Time Series & Machine Learning
 
 This project builds a robust forecasting pipeline for monthly ocean freight container prices using both classical time series models and modern machine learning techniques. The focus is on forecasting rates for 20ft and 40ft containers across major global trade lanes. Accurate freight forecasts are critical for global supply chain planning, cost optimization, and risk mitigation.
 ## Why This Matters
